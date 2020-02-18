@@ -1,0 +1,12 @@
+stop_id,stop_code,stop_name,stop_lat,stop_lon
+0,U01761,Adarsh Nagar / Bharola Village,28.715917,77.170867
+1,DC4248,British High Comission,28.598533,77.191383
+2,U02398,Azad Market,28.6647,77.2084
+3,U02416,Kidwai Nagar,28.5757,77.2097
+4,DC4271,Rashid Market,28.6502,77.278667
+5,U03074,Nehru Nagar,28.56915,77.253883
+6,U02904,Sunder Nagar,28.602217,77.2404
+7,DC4225,Suraj Mal Vihar,28.661283,77.303517
+8,U02563,National Archives,28.6147,77.2185
+9,U02922,Darya Ganj,28.6460833333333,77.2404
+10,U00314,Nangli Sakrawati,28.614667,77.0034
